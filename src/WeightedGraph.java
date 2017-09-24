@@ -1,3 +1,11 @@
+/**
+ * An adjacency list implementation of a weighted graph.
+ *
+ * @param X the type of vertices in the graph.
+ *
+ * @author Harith Khawaja
+ */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
