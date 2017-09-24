@@ -1,3 +1,11 @@
+/**
+ * An implementation of Dijstra's algorithm
+ *
+ * @param X the type of values to perform Dijkstra's on
+ *
+ * @author Harith Khawaja
+ */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
